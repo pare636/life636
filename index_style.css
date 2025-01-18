@@ -1,4 +1,3 @@
-
 body {margin:0 auto;overflow:hidden;}  
 
 /*=============第一页=============*/	
@@ -107,7 +106,7 @@ body {margin:0 auto;overflow:hidden;}
       opacity: 0.3;
 	}
 .header .top_logo{
-	background-image: url(img/top_logo.png);
+	background-image: url(life636/top_logo.png); /* แก้ไขเส้นทาง */
 	margin:0 auto;
 	width:750px;
 	height:200px;
@@ -129,7 +128,7 @@ body {margin:0 auto;overflow:hidden;}
 	}
 .header .nav a.gv { 
 	text-decoration:none; 
-	background:url(img/nav_gv.png) repeat 0px 0px; 
+	background:url(life636/nav_gv.png) repeat 0px 0px; /* แก้ไขเส้นทาง */
 	width: 130px; 
 	height: 43px; 
 	display: block; 
@@ -145,7 +144,7 @@ body {margin:0 auto;overflow:hidden;}
 	 	
 }
 .header .nav a.gv:hover { 
-	background: url(img/nav_gv.png) repeat 0px -43px; 
+	background: url(life636/nav_gv.png) repeat 0px -43px; /* แก้ไขเส้นทาง */
 	color:#1d7eb8;
 	-webkit-box-shadow: 0 0 6px #1d7eb8;
 	transition-duration: 0.5s;
@@ -158,5 +157,4 @@ body {margin:0 auto;overflow:hidden;}
 	margin-left: -490px;
 	position:absolute;
 	z-index:20;
-
-	}
+}
